@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattjdavison
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 📫 You can reach me via instagram/facebook <br>
   https://instagram.com/mjd.online<br>
   https://facebook.com/photographymjd
