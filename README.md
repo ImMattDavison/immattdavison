@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattjdavison.
+- 👋 Hi, I’m @immattdavison.
 - 💻 I'm knowldgable in HTML, CSS, and Bootstrap 3/4.
 - 🌱 I’m currently learning JavaScript and PHP!
 - 🤖 I develop the Spectre Discord bot!
