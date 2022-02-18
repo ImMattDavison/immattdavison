@@ -43,13 +43,13 @@
 <a href="https://dev.to/immattdavison" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="immattdavison" height="30" width="40" /></a>
 <a href="https://twitter.com/immattdavison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immattdavison" height="30" width="40" /></a>
 <a href="https://instagram.com/immattdavison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immattdavison" height="30" width="40" /></a>
-<a href="https://medium.com/@immattdavison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@immattdavison" height="30" width="40" /></a>
-  
-## 💲 Support
-<p><a href="https://ko-fi.com/mjdws"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mjdws" /></a></p><br><br>
+<a href="https://medium.com/@immattdavison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@immattdavison" height="30" width="40" /></a><br><br>
+<a href="https://twitter.com/immattdavison" target="blank"><img src="https://img.shields.io/twitter/follow/immattdavison?logo=twitter&style=for-the-badge" alt="immattdavison" /></a> 
 
 ## 📈 Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=immattdavison&show_icons=true&locale=en" alt="immattdavison" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immattdavison&" alt="immattdavison" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=immattdavison&label=Profile%20views&color=0e75b6&style=flat" alt="immattdavison" /> </p>
