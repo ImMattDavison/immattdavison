@@ -18,7 +18,7 @@
 - Photoshop
 
 ## 🏆 My Achievements...
-- Winner of the second ever @acode community challenge!
+- Winner of the second ever [@acode](https://github.com/acode) community challenge!
 - Developer of Spectre, used in 1000+ servers on Discord.
 - Successfully started my own Open-Source CSS framework (OpenBeans).
 
