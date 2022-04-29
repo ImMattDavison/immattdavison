@@ -7,7 +7,6 @@
 - 👷‍♂️ I'm currently building [OpenBeans](https://github.com/mjdob/openbeans)
 - 📸 I'm a semi-pro photographer &#65372; <a href="https://www.mjdonlineuk.com" target="_blank">View my site!</a>
 - 📫 You can reach me via <a href="https://www.instagram.com/immattdavison" target="_blank">Instagram</a> / <a href="https://www.mjdonlineuk.com/contact-us" target="_blank">My Contact Form</a> / <a href="mailto:matt@mjdws.com" target="_blank">Email</a>
-- Find more in the [me file](https://github.com/immattdavison/immattdavison/blob/main/me.md)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immattdavison&label=Profile%20views&color=0e75b6&style=flat" alt="immattdavison" /> </p>
 
 ## 📱 Connect With Me
