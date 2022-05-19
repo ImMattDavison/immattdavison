@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @immattdavison.
 
 ## 📕 The shortform...
-- 💻 I'm knowldgable in HTML, CSS, and Bootstrap 3/4.
+- 💻 I'm knowldgable in HTML, CSS, and Bootstrap 3/4/5.
 - 🌱 I’m currently learning JavaScript and PHP!
 - 🤖 I develop the Spectre Discord bot!
 - 👷‍♂️ I'm currently building [OpenBeans](https://github.com/mjdob/openbeans)
