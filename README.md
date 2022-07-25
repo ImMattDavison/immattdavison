@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @immattdavison.
 
-## 📕 The shortform...
+## 📕 About me...
 - 💻 I'm knowldgable in HTML, CSS, and Bootstrap 3/4/5.
 - 🌱 I’m currently learning JavaScript and PHP!
 - 🤖 I develop the Spectre Discord bot!
