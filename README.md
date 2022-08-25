@@ -4,7 +4,6 @@
 - 💻 I'm knowldgable in HTML, CSS, and Bootstrap 3/4/5.
 - 🌱 I’m currently learning JavaScript and PHP!
 - 🤖 I develop the Spectre Discord bot!
-- 👷‍♂️ I'm currently building [OpenBeans](https://github.com/mjdob/openbeans)
 - 📸 I'm a semi-pro photographer &#65372; <a href="https://www.mjdonlineuk.com" target="_blank">View my site!</a>
 - 📫 You can reach me via <a href="https://www.instagram.com/immattdavison" target="_blank">Instagram</a> / <a href="mailto:matt@mjdws.com" target="_blank">Email</a>
 - 🌐 You can view my personal website <a href="https://matt.lgbt" target="_blank">here</a>
