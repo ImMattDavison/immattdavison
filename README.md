@@ -9,7 +9,6 @@ I've been coding for 2 years, after being introduced to web development through 
 * 🌍  I'm based in Leicester, UK
 * 🖥️  See my portfolio at [matt.lgbt](http://matt.lgbt)
 * ✉️  You can contact me at [matt@mjdws.com](mailto:matt@mjdws.com)
-* 🚀  I'm currently working on [NoMoreDomains](http://github.com/immattdavison/nomoredomains)
 
 <br>
 <div align="left">
