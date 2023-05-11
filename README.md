@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I've been coding for 2 years, after being introduced to web development through running a photography business.
 
-* 🌍  I'm based in Leicester, UK
+* 🌍  I'm based in Leicestershire, UK
 * 🖥️  See my portfolio at [matt.lgbt](http://matt.lgbt)
 * ✉️  You can contact me at [matt@mjdws.com](mailto:matt@mjdws.com)
 
